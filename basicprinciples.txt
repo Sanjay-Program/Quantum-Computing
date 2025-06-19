@@ -1,0 +1,7 @@
+Superposition: A qubit can exist in multiple states both 0 and 1 at the same time until iit is measured. Example: If a qubit is in a superposition of |0> and |1>, it holds a probability distribution of both states.
+Entanglement:When two or more qubits are entangled, changing the state of one instantly affects the state of the other, no matter how far apart they are Application: Used in quantum cryptography and secure communications
+Quantum Gates: Manipulate qubits, just as classical login gates( and, or not) manipulate bits
+Hadamard(H): Creates superposition(0-> and 1 at the same time)
+Pauli_X(X):Flips the qubit(0->1, 1->0)
+CNOT(Controlled-NOT):Creates entanglement between qubits
+Phase Shift(STZ):Rotates the phase of the qubit state
